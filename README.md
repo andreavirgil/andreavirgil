@@ -1,6 +1,6 @@
 # 🚀 About Me
 
-Hi there! 👋 I’m **Andrea Virgil Ofian**, an Informatics Engineering student at **Universitas Sultan Ageng Tirtayasa**. Passionate about web development, UI design, and creating clean, user-friendly digital experiences.
+Hi there! 👋 I’m **Andrea Virgil Ofian**, an Informatics Engineering student at **Universitas Sultan Ageng Tirtayasa**. 
 
 ---
 
