@@ -38,18 +38,6 @@ XAMPP • Laragon
 Figma • Canva
 ```
 
----
-
 ## 📫 Let's Connect
 
 [Instagram](https://www.instagram.com/andrea_avo89?igsh=MWtkM2Fxd3o0dzZsaA==) • [LinkedIn](https://www.linkedin.com/in/andrea-virgil-ofian-b91809278/)
-
----
-
-## 📊 GitHub Stats
-
-### 🧑‍💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreavirgil\&layout=compact\&theme=tokyonight)
-
----
