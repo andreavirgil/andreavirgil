@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I’m Andrea Virgil Ofian, an Informatics Engineering student at Universitas Sultan Ageng Tirtayasa.
+Hi there! 👋 I’m Andrea Virgil Ofian, an Informatics Engineering at Universitas Sultan Ageng Tirtayasa.
 
 
 ## 🌐 Socials:
